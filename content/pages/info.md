@@ -224,6 +224,9 @@ sections:
       - type: Label
         label: Google Cloud Platform
         url: ''
+      - type: Label
+        label: Adobe Experience Manager
+        url: ''
   - type: DividerSection
     styles:
       self:
