@@ -133,6 +133,7 @@ sections:
           self:
             textAlign: left
         title: ''
+        subtitle: hola
       - type: FeaturedItem
         actions:
           - type: Link
