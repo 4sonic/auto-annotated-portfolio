@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: JavaScript/Node
       - type: Label
-        label: Microsoft Office
+        label: 'Hugo, Jekyll, NextJS'
       - type: Label
         label: Next.js
       - type: Label
