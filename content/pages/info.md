@@ -206,11 +206,11 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: HTML5 & CSS3
       - type: Label
-        label: React
+        label: JavaScript/Node
       - type: Label
-        label: Microsoft Office
+        label: Jekyll
       - type: Label
         label: Next.js
       - type: Label
@@ -221,6 +221,12 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: Google Cloud Platform
+        url: ''
+      - type: Label
+        label: Adobe Experience Manager
+        url: ''
   - type: DividerSection
     styles:
       self:
