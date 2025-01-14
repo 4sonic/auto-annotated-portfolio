@@ -210,7 +210,7 @@ sections:
       - type: Label
         label: JavaScript/Node
       - type: Label
-        label: 'Hugo, Jekyll, NextJS'
+        label: Jekyll
       - type: Label
         label: Next.js
       - type: Label
