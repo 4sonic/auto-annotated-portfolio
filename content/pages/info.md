@@ -19,7 +19,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/person-2.jpg
+      url: /images/diego.jpg
       altText: Hero image
     styles:
       self:
