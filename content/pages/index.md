@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/bg1.jpg
 sections:
   - elementId: ''
-    colors: colors-d
+    colors: colors-a
     backgroundSize: full
     title: >-
       I'm a front-end web developer specialising in fast and accessible
