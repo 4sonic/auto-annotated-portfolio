@@ -208,7 +208,7 @@ sections:
       - type: Label
         label: HTML5 & CSS3
       - type: Label
-        label: React
+        label: JavaScript/Node
       - type: Label
         label: Microsoft Office
       - type: Label
