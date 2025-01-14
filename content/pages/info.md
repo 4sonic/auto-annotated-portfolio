@@ -359,7 +359,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Let’s talk... \U0001F919\U0001F3FE"
     colors: colors-f
     form:
       type: FormBlock
