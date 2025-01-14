@@ -221,6 +221,9 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: Google Cloud Platform
+        url: ''
   - type: DividerSection
     styles:
       self:
