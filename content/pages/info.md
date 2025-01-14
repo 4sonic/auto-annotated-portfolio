@@ -206,7 +206,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: HTML5
+        label: HTML5 & CSS3
       - type: Label
         label: React
       - type: Label
