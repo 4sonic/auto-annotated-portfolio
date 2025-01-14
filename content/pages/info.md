@@ -132,7 +132,7 @@ sections:
         styles:
           self:
             textAlign: left
-        title: HOLA
+        title: ''
       - type: FeaturedItem
         actions:
           - type: Link
