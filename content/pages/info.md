@@ -141,7 +141,7 @@ sections:
           self:
             textAlign: left
         title: ''
-        subtitle: HOLA
+        subtitle: ''
       - type: FeaturedItem
         actions:
           - type: Link
