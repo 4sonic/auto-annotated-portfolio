@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Front-end
+title: Desarrollo Front-end
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
