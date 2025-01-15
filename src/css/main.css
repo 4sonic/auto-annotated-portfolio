@@ -322,7 +322,7 @@
             @apply text-primary;
         }
         .sb-header-overlay {
-            @apply bg-dark;
+            @apply bg-secondary;
         }
     }
     .colors-d {
