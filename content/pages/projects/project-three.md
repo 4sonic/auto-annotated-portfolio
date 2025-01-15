@@ -9,7 +9,7 @@ description: >-
   simples que resuelven problemas de negocio de manera creativa y eficiente.
 featuredImage:
   type: ImageBlock
-  url: /images/Website-footer-design.png
+  url: /images/ux.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
