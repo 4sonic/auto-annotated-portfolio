@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   Desarrollo interfaces de usuario rápidas y mejoradas progresivamente con HTML,
   CSS y JavaScript para una amplia variedad de
-  aplicaciones.                           
+  aplicaciones.<br>                    
 featuredImage:
   type: ImageBlock
   url: /images/Website-header-webdesign-01.png
