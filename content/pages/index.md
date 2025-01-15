@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm a front-end web developer specialising in fast and accessible
-      websites.
+      desarrollador web front-end especializado en sitios web rápidos y
+      aplicaciones Jamstack.
     subtitle: >-
       I design and build fast, modern, and accessible websites and web apps that
       are easy to update and deliver a great user experience.
