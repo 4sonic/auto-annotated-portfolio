@@ -1,14 +1,14 @@
 ---
 type: ProjectFeedLayout
 title: Servicios
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
   url: /images/blue-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 50
+  opacity: 75
 projectFeed:
   type: ProjectFeedSection
   colors: colors-f
