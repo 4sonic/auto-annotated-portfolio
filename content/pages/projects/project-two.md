@@ -10,7 +10,7 @@ description: >-
   aplicaciones.<br>                    
 featuredImage:
   type: ImageBlock
-  url: /images/Website-header-webdesign-01.png
+  url: /images/front-end.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
