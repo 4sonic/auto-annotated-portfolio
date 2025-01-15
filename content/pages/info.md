@@ -317,6 +317,7 @@ sections:
               - pl-0
               - pb-0
               - pr-0
+        title: Habilidades principales
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
