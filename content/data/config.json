@@ -28,7 +28,7 @@
             {
                 "type": "Social",
                 "altText": "Instagram",
-                "label": "Twitter",
+                "label": "Instagram",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
             },
