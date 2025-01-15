@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Luis Arias",
+        "title": "SuperNormal",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -80,7 +80,7 @@
             "title": "Contact details",
             "phoneNumber": "",
             "phoneAltText": "",
-            "email": "thisismyemail.@myemail.me",
+            "email": "contacto@super-normal.dev",
             "emailAltText": "My email",
             "address": "",
             "addressAltText": ""
