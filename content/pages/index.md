@@ -8,7 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-  url: /images/bg1.jpg
+  url: /images/bg3.jpg
 sections:
   - elementId: ''
     colors: colors-f
