@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Servicios
-colors: colors-c
+colors: colors-d
 backgroundImage:
   type: BackgroundImage
   url: /images/blue-1.jpg
