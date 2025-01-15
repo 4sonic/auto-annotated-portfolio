@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Diseño Web y UX
+title: Diseño Web y User Experience
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
