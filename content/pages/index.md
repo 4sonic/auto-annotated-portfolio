@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      desarrollador web front-end especializado en sitios web rápidos y
+      Desarrollador web front-end especializado en sitios web rápidos y
       aplicaciones Jamstack.
     subtitle: >-
       Diseño y construyo sitios web y aplicaciones web rápidas, modernas y
@@ -60,8 +60,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
       - content/pages/projects/project-three.md
+      - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
     styles:
       self:
@@ -85,6 +85,10 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Servicios
+    title: >-
+      Productos digitales personalizados, sitios web y tiendas en línea
+      enfocados en la experiencia del usuario, para lograr un mayor alcance y
+      generar más ingresos.
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
