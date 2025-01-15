@@ -1,13 +1,12 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Diseño Web y UX
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Diseño sitios web, aplicaciones y productos digitales responsivos, elegantes y
+  simples que resuelven problemas de negocio de manera creativa y eficiente.
 featuredImage:
   type: ImageBlock
   url: /images/Website-footer-design.png

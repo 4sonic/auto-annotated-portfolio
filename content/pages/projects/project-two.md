@@ -1,15 +1,16 @@
 ---
 type: ProjectLayout
-title: Desarrollo Front-end
+title: Front-end
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
   Desarrollo interfaces de usuario rápidas y mejoradas progresivamente con HTML,
-  CSS y JavaScript para una amplia variedad de aplicaciones.
+  CSS y JavaScript para una amplia variedad de
+  aplicaciones.<br>                    
 featuredImage:
   type: ImageBlock
-  url: /images/Website-header-webdesign-01.png
+  url: /images/front-end.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
