@@ -1,10 +1,10 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Servicios
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/blue-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
