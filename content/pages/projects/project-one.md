@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Diseño de API y Datos
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/gallery-3.jpg
+  url: /images/api.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
