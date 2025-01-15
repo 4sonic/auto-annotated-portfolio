@@ -1,14 +1,14 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/blue-1.jpg
 sections:
   - elementId: ''
     colors: colors-f
@@ -36,6 +36,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
@@ -83,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Services
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
