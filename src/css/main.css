@@ -364,7 +364,7 @@
             @apply text-complementary;
         }
         .sb-header-overlay {
-            @apply bg-complementary;
+            @apply bg-primary;
         }
     }
     .colors-f {
