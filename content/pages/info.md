@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/blue-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -19,7 +19,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/diego.jpg
+      url: /images/about.jpg
       altText: Hero image
     styles:
       self:
@@ -130,16 +130,31 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            label: Learn more
+            altText: ''
+            url: /github.com
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+        styles:
+          self:
+            textAlign: left
+        title: ''
+        subtitle: ''
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/'
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            label: Instagram
+            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
@@ -156,14 +171,6 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
@@ -352,7 +359,7 @@ sections:
         borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Let’s talk... \U0001F919\U0001F3FE"
     colors: colors-f
     form:
       type: FormBlock
