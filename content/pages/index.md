@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Services
+    subtitle: Servicios
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
