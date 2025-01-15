@@ -14,11 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I'm a front-end web developer specialising in fast and accessible
-      websites.
+      desarrollador web front-end especializado en sitios web rápidos y
+      aplicaciones Jamstack.
     subtitle: >-
-      I design and build fast, modern, and accessible websites and web apps that
-      are easy to update and deliver a great user experience.
+      Diseño y construyo sitios web y aplicaciones web rápidas, modernas y
+      accesibles que ofrecen una excelente experiencia de usuario.
     styles:
       self:
         height: auto
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Services
+    subtitle: Servicios
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
