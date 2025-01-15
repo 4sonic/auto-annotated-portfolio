@@ -8,7 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
-  url: /images/800px-5120x2880-dark-blue-solid-color-background.jpeg
+  url: /images/blue-1.jpg
 sections:
   - elementId: ''
     colors: colors-f
