@@ -7,7 +7,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 38
+  opacity: 2
   url: /images/blue-1.jpg
 sections:
   - elementId: ''
