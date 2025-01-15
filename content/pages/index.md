@@ -85,6 +85,10 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Servicios
+    title: >-
+      Productos digitales personalizados, sitios web y tiendas en línea
+      enfocados en la experiencia del usuario, para lograr un mayor alcance y
+      generar más ingresos.
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
