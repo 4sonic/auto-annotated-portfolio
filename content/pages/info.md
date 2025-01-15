@@ -269,26 +269,46 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          *   Concepto y consultoría
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   Diseño de interfaz de usuario/experiencia de usuario (UI/UX) para
+          productos
 
-          * fullstack at this startup
 
-          **2015**
+          *   Desarrollo de aplicaciones web
 
-          * senior front-end at this place
 
-          **2013**
+          *   Generadores de sitios estáticos
 
-          * intern developer at a big company
 
-          **2011**
+          *   Jamstack / Headless
 
-          * flipping burgers
+
+          *   Sistemas de gestión de contenidos (CMS)
+
+
+          *   Sin servidor y edge
+
+
+          *   Diseño y desarrollo de API
+
+
+          *   Flujos de trabajo de Integración Continua/Entrega Continua (CI/CD)
+
+
+          *   Comercio electrónico y pagos
+
+
+          *   Creación de esquemas y prototipos
+
+
+          *   Pruebas y diseño de accesibilidad
+
+
+          *   Optimización del rendimiento
+
         styles:
           self:
             textAlign: left
