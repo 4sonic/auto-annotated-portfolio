@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Servicios
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
