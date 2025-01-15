@@ -4,7 +4,7 @@ title: Blog
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/blue-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
