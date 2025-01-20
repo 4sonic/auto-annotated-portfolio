@@ -39,7 +39,7 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                fontPrimary: ['Open Sans', 'monospace'],
+                fontPrimary: ['Tiempos Headline', 'monospace'],
                 fontSecondary: ['Azeret Mono', 'monospace']
             },
             letterSpacing: {
