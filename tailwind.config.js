@@ -40,7 +40,7 @@ module.exports = {
             },
             fontFamily: {
                 fontPrimary: ['Tiempos Headline', 'monospace'],
-                fontSecondary: ['Azeret Mono', 'monospace']
+                fontSecondary: ['Open Sans', 'monospace']
             },
             letterSpacing: {
                 wide: '.05em',
