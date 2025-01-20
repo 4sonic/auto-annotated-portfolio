@@ -1,9 +1,4 @@
-import url("//fastly-cloud.typenetwork.com/projects/166/fontface.css?639c20a5");@font-face {
-    font-family: 'Tiempos Headline';
-    font-weight: 700;
-    font-style: normal;
-    src: url("/assets/fonts/TiemposHeadlineWeb-Bold.eot");
-    src: url("/assets/fonts/TiemposHeadlineWeb-Bold.eot?#iefix") format("embedded-opentype"),url("/assets/fonts/TiemposHeadlineWeb-Bold.woff") format("woff"),url("/assets/fonts/TiemposHeadlineWeb-Bold.woff2") format("woff2")
+import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet")
 };
 
 @tailwind base;
