@@ -3,7 +3,7 @@ type: PageLayout
 title: Home
 colors: colors-c
 sections:
-  - elementId: ''
+  - elementId: header
     colors: colors-f
     backgroundSize: full
     title: >-
