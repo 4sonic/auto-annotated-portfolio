@@ -32,6 +32,7 @@ sections:
         borderColor: border-secondary
       title:
         textAlign: left
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
