@@ -191,11 +191,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: repeat
-  opacity: 100
 ---
